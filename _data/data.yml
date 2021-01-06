@@ -115,10 +115,13 @@ projects:
         link: "https://github.com/philcgithub/ansible-cloudbees-ci-trad"
         tagline: "An Ansible playbook to automate the provisioning of a cluster of CloudBees CI for Traditional servers.  This can include provisioning the vm's or deploy on to existing vm's.  Ansible / Google GKE."
 skills:
-    - skill: Certified Kubernetes Administrator
-    - skill: Groovy
-    - skill: Perl
-    - skill: Bash
-    - skill: XML
-    - skill: YAML
-    - skill: Ansible
+  title: Skills &amp; toolsets
+
+  toolset:
+    - name: Certified Kubernetes Administrator
+    - name: Groovy
+    - name: Perl
+    - name: Bash
+    - name: XML
+    - name: YAML
+    - name: Ansible
