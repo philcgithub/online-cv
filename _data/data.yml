@@ -34,132 +34,81 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Senior Technical Consultant and Manager with more than 20 years experience in selling enterprise software. Worked in individual contributor as well as management roles, helping startups to establish their presence in the UK & EMEA and to expand to acquisition, and global software companies to position their portfolio to the market.
+      Proven record of successfully working in various sales models, including high volume, small transaction businesses and low volume, high value deal businesses (closing multiple 7 figure deals).
+      Focused on putting the customer first, ensuring they have a positive experience when evaluating or using an offering. Being a reliable representative of the company, responsive to the prospects and customers needs, and providing good feedback into product management, R&D and marketing about how to improve and position the offering. Able to prioritise effectively, not only my own time but that of the teams working around me. Known by those who work with me to have a calm and conscientious approach.
 education:
     - degree: BSc in Computer Science
       university: University of Brighton
       time: 1994 - 1998
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Solutions Architect
+      time: Jan 2019 - Present
+      company: CloudBees
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        CloudBees, the enterprise software delivery company, provides the industry’s leading DevOps technology platform. CloudBees enables developers to focus on what they do best: Build stuff that matters, while providing peace of mind to management with powerful risk mitigation, compliance and governance tools.
+        
+        Used by 50% of the Fortune 100, CloudBees is helping thousands of companies harness the power of continuous everything and get them on the fastest path from great idea, to great software, to amazing customer experiences, to being a business that changes lives.
+    - role: Senior Solution Architect
+      time: Nov 2016 - Jan 2019
+      company: Automic
+    - role: Managing Director
+      time: Feb 2011 - Apr 2018
+      company: Cerasus Consulting Ltd
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Technical. Sales. Enablement.
+        
+        Providing technical consultancy and hands-on technical capabilities to companies wishing to establish or broaden their presence in the UK market. Encompassing PreSales, PostSales, Professional Services and Technical Account Management activities.
+        
+        Engagements include Nolio (acquired by CA Technologies), Intigua, DevFactory, Capriza and Plutora.
+    - role: Principal Consultant
+      time: Mar 2013 - Dec 2013
+      company: CA Technologies
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        In the newly formed 'Application Delivery' business unit, combining the acquisitions of ITKO and Nolio.
+    - role: UK Technical Director
+      time: Mar 2011 - Mar 2013
+      company: Nolio
+      details: |
+        Nolio Application Service Automation Platform (Nolio ASAP) automates application release deployment, maintenance, remediation and recovery across the data center, extending control over release quality, time, cost and manageability.
+
+        Acquired by CA Technologies March 2013.
+        
+        Responsibility for all technical activities in UK as well as providing general technical services to primarily UK but also parts of Europe. This includes PreSales, PostSales, Professional Services and Technical Account Management.
+        
+        The UK was the most successful region, contributing over 50% of all revenue closed by the entire company, and being responsible for closing the 3 largest deals (all 7 figure deals).
+    - role: Technology Consultant
+      time: Jan 2009 - Feb 2011
+      company: EMC Computer Systems
+      details: |
+        Technology Consultant in Ionix Business Unit, focusing on IT Management software solutions.
+        
+        Covering
+          - Service Management (Infra Service Management solution)
+          - Data Center Automation and Compliance (ConfigureSoft Server Configuration Manager, Voyence Network Configuration Manager, FastScale provisioning and optimisation)
+          - Service Discovery and Mapping (nLayers Application Discovery Manager)
+          - Storage Resource Management (Storage Configuration Advisor)
+          - IT Operations Insight (Smarts technology)
+          - Unified Infrastructure Manager (unified management solution for vBlocks)
+    - role: PreSales Manager
+      time: Mar 2007 - Jan 2009
+      company: Hewlett-Packard
+    - role: CSD Technical Manager
+      time: Jun 1998 - Feb 2007
+      company: Mercury Interactive
+      details: |
+        Acquired by HP Software in 2007
+        
+          - CSD Technical Manager (February 2004 to February 2007)
+          - SE Manager for EMEA TeleBusiness Organisation (January 2002 to January 2004)
+          - PreSales Consultant for European TeleBusiness Organisation (April 2001 to January 2002)
+          - e-Services Consultant (June 2000 to April 2001)
+          - Technical Support Engineer (June 1998 to June 2000)
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Some of the public projects I have worked on.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - title: Ansible Playbook for CloudBees CI for Traditional
+        link: "https://github.com/philcgithub/ansible-cloudbees-ci-trad"
+        tagline: "An Ansible playbook to automate the provisioning of a cluster of CloudBees CI for Traditional servers.  This can include provisioning the vm's or deploy on to existing vm's.  Ansible / Google GKE."
