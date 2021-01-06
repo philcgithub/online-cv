@@ -35,7 +35,9 @@ career-profile:
     title: Career Profile
     summary: |
       Senior Technical Consultant and Manager with more than 20 years experience in selling enterprise software. Worked in individual contributor as well as management roles, helping startups to establish their presence in the UK & EMEA and to expand to acquisition, and global software companies to position their portfolio to the market.
+
       Proven record of successfully working in various sales models, including high volume, small transaction businesses and low volume, high value deal businesses (closing multiple 7 figure deals).
+
       Focused on putting the customer first, ensuring they have a positive experience when evaluating or using an offering. Being a reliable representative of the company, responsive to the prospects and customers needs, and providing good feedback into product management, R&D and marketing about how to improve and position the offering. Able to prioritise effectively, not only my own time but that of the teams working around me. Known by those who work with me to have a calm and conscientious approach.
 education:
     - degree: BSc in Computer Science
@@ -112,3 +114,11 @@ projects:
       - title: Ansible Playbook for CloudBees CI for Traditional
         link: "https://github.com/philcgithub/ansible-cloudbees-ci-trad"
         tagline: "An Ansible playbook to automate the provisioning of a cluster of CloudBees CI for Traditional servers.  This can include provisioning the vm's or deploy on to existing vm's.  Ansible / Google GKE."
+skills:
+    - skill: Certified Kubernetes Administrator
+    - skill: Groovy
+    - skill: Perl
+    - skill: Bash
+    - skill: XML
+    - skill: YAML
+    - skill: Ansible
