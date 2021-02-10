@@ -114,6 +114,9 @@ projects:
       - title: Ansible Playbook for CloudBees CI for Traditional
         link: "https://github.com/philcgithub/ansible-cloudbees-ci-trad"
         tagline: "An Ansible playbook to automate the provisioning of a cluster of CloudBees CI for Traditional servers.  This can include provisioning the vm's or deploy on to existing vm's.  Ansible / Google GKE."
+      - title: Chef cookbook for CloudBees CD for Traditional
+        link: "https://github.com/philcgithub/chef-cloudbees-cd"
+        tagline: "A Chef cookbook to automate the installation of CloudBees CD for Traditional servers."
 skills:
   title: Skills &amp; toolsets
 
