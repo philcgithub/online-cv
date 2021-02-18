@@ -125,9 +125,9 @@ skills:
     - name: Multi cloud experience (Amazon, Azure, Google)
     - name: Many operating systems (MS-DOS, SunOS, Solaris, Windows, Linux such as RHEL, CentOS, Ubunut), Mac OS/X
     - name: SQL
-    - name: Many languages such as Groovy, Perl, Bash, Python, Visual Basic, C, C++, HTML
-    - name: Many formats such as XML and YAML
-    - name: Config management tools such as Ansible
+    - name: Many languages such as Groovy, Perl, Ruby, Bash, Python, Visual Basic, C, C++, HTML
+    - name: Many formats such as XML, YAML and markdown
+    - name: Config management tools such as Ansible and Chef
     - name: Build tools such as Jenkins, CloudBees CI
     - name: CD/ARO tools such as Nolio, Automic, CloudBees CD
     - name: Testing tools such as WinRunner, QuickTest Professional, TestDirector/Quality Center/ALM
