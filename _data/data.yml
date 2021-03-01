@@ -117,6 +117,9 @@ projects:
       - title: Chef cookbook for CloudBees CD for Traditional
         link: "https://github.com/philcgithub/chef-cloudbees-cd"
         tagline: "A Chef cookbook to automate the installation of CloudBees CD for Traditional servers."
+      - title: "Ansible playbook for CloudBees CD for Traditional"
+        link: "https://github.com/philcgithub/ansible-cloudbees-cd-trad"
+        tagline: "An Ansible playbook to automate the installation of CloudBees CD including obtaining valid certs from letsencrypt."
 skills:
   title: Skills &amp; toolsets
 
