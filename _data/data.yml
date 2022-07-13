@@ -131,6 +131,7 @@ skills:
   toolset:
     - name: Certified Kubernetes Administrator
     - name: Multi cloud experience (Amazon, Azure, Google)
+    - name: Infrastructure as code tools like Terraform
     - name: Many operating systems (MS-DOS, SunOS, Solaris, Windows, Linux such as RHEL, CentOS, Ubunut), Mac OS/X
     - name: SQL
     - name: Many languages such as Groovy, Perl, Ruby, Bash, Python, Visual Basic, C, C++, HTML
